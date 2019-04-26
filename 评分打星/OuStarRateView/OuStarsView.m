@@ -40,7 +40,7 @@
     }
     return self;
 }
-
+//
 -(void)creatInitUI
 {
     UIImage *grayImg = [UIImage imageNamed:kGrayImgName];
